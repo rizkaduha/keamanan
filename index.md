@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+#KEAMANAN JARINGAN NIRKABEL
+##Keamanan Jaringan
 
-You can use the [editor on GitHub](https://github.com/rizkaduha/keamanan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Nirkabel(Wireless) adalah teknologi yang menghubungkan dua piranti untuk bertukar data tanpa media kabel. Dalam keamanan jaringan nirkabel ada 3 metode keamanan, yaitu :
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Wired Equivalent Privacy
+metode ini bermaksud untuk menghentikan intersepsi isyarat gelombang elektromagnetik oleh user yang idak berhak. metode ini dilakukan dengan cara memberi semua klien dan acsess point dengan kunci enskripsi dan deskripsi yang sama.
 
-### Markdown
+### Service Set Identifier
+metode ini dilakukan dengan cara memberi suatu SSID yang berlaku sebagai password sedehana yang memungkinkan suatu jaringan WLAN dipisahkan dalam beberapa net-work yang berbeda. semua klien yang akan mengakses jaringan ini harus dikonfigurasi menggunakan pengenal SSID yang sesuai.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Filter Alamat MAC(Media Access Control)
+metode ini digunkan untuk membatasi akses pada jaringan WLAN menggunakan daftar alamat MAC pada klien. alamat MAC ini dimasukan dalam access point sehingga hanya klien yang punya alamat MAC yang terdaftar saja yang dapat mengakses jaringan WLAN.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rizkaduha/keamanan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
